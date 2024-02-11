@@ -4,7 +4,7 @@ Hi 👋 My name is Fynn Mahringer
 Java Developer and IT Assistant
 -------------------------------
 
-I started programming three years ago when I started as a student at the HTL-Steyr. My first introduction to daily programming was working at Mitterhuemer as a Web-Developer.
+I started programming three years ago when I started as a student at the HTL-Steyr. My first introduction to daily programming was working at Mitterhuemer as a Web-Developer. Before that, i did it as a hobby and for school.
 
 * 🌍  I'm based in Austria
 * ✉️  You can contact me at [fmahring.prof@outlook.com](mailto:fmahring.prof@outlook.com)
