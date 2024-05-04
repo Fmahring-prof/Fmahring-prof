@@ -1,6 +1,8 @@
 Hi 👋 My name is Fynn Mahringer
 ===============================
 
+![](https://komarev.com/ghpvc/?username=ftmahringer&color=red&abbreviated=true&label=PROFILE+VIEWS&style=for-the-badge&base=100)
+
 Java Developer and IT Assistant
 -------------------------------
 
